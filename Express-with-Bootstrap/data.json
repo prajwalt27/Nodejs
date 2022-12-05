@@ -1,0 +1,49 @@
+
+{
+   
+   "soccer":{
+      "name":"soccer",
+      "subscribers":8000000,
+      "description":"The Football news results and discussion about the beautiful game.",
+      "posts":[
+          {
+              "title":"lio messi scored....",
+              "author":"jeo jill"
+          },
+          {
+            "title":"cris ron scored....",
+            "author":"peo oill"
+        },
+        {
+            "title":"ney messi scored....",
+            "author":"keo pill"
+        }
+      ]
+
+   },
+   "chickens": {
+      "name":"chickens",
+      "subscribers":230000,
+      "description":"A place to post your photos,videos and questions",
+      "posts":[
+          {
+             "title":"nue under a shed for 3 weeks ",
+             "authors":"joethix",
+             "img":"https://media.npr.org/assets/img/2020/04/03/coronavirus-chicken-eggs-grocery-bea2b93a5d9883ff5c44029515176b4911d5c24f-s1100-c50.jpg" 
+          },
+          {
+            "title":"Had to shed for 3 weeks ",
+            "authors":"plow thix",
+            "img":"https://blog.mcmurrayhatchery.com/wp-content/uploads/2015/07/Why-Do-Chickens-Eat-Their-Own-Eggs-McMurrayHatcheryBlog.jpg" 
+            
+         },
+         {
+            "title":"Five year old chicken... ",
+            "authors":"jelly host",
+            "img":"https://cdn.mos.cms.futurecdn.net/BX7vjSt8KMtcBHyisvcSPK.jpg" 
+         }
+      ]
+   }
+
+}
+
